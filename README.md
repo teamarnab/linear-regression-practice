@@ -1,5 +1,5 @@
 # linear-regression-practice
-Practicing linear regression model with a sample dataset. 
+Practicing linear regression model with a sample dataset (50_startups). 
 
 
 In this dataset you have to predict profit depending on R&D Spend, Marketing Spend, Administration Spend and State.
