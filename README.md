@@ -28,4 +28,5 @@ STEPS FOLLOWED
 11. Making predictions using test dataset.
 12. Checking the accuracy of the model.
 
-
+**The accuracy of the model can be further improvde by applying Ridge, Lasso or Elastic net regression on top of this. 
+But this worksheet is just for Linear Regression practice.
