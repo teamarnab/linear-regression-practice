@@ -6,6 +6,7 @@ In this dataset you have to predict profit depending on R&D Spend, Marketing Spe
 
 
 In this workbook I have practised multiple linear regression. 
+
 PROBLEM STATEMENT
 1. Check the dataset if it needs cleaning.
 2. Check the dataset if it needs missing value treatment.
